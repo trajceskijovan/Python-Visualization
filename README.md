@@ -1,2 +1,4 @@
 # Python-Visualization
-Python Visualization Primer
+
+Python Visualization Primer including pandas, matplotlib, histograms, time series, other plots.
+
