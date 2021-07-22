@@ -2,7 +2,7 @@
 
 Python Visualization Primer including pandas, matplotlib, histograms, time series, other plots.
 
-# Sample provided below:
+# Samples provided below:
 
 ![](samples/1.png)
 ![](samples/2.png)
