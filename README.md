@@ -1,6 +1,6 @@
 # Python-Visualization
 
-Python Visualization Primer including pandas, matplotlib, histograms, time series, other plots.
+Python Visualization Primer (5 Jupiter Notebooks) including pandas, matplotlib, histograms, time series, other plots.
 
 # Samples provided below:
 
